@@ -11,7 +11,13 @@ The following entities were chosen to complete the task: **Planets** and **Resid
 - **Residents**: Represent the named residents who live on each planet.
 
 **Important**: Only a few fields were selected for the entities to simplify the implementation.
- 
+
+**DSV Swapi UI**
+=====================
+For the Angular UI, an Angular starter boilerplate was used as the foundation.  
+A simple Planets page was added to the Angular project to demonstrate the API call functionality.
+https://github.com/edsonscosta/dsvswapi.ui?tab=readme-ov-file
+![img.png](img.png)
 
 **Frameworks and Tools:**
 =====================

@@ -1,0 +1,17 @@
+/Users/edsoncosta/Documents/Edson/DSVSwapi/DSVTask/DSVSwapi.Service/bin/Debug/net8.0/DSVSwapi.Service.deps.json
+/Users/edsoncosta/Documents/Edson/DSVSwapi/DSVTask/DSVSwapi.Service/bin/Debug/net8.0/DSVSwapi.Service.dll
+/Users/edsoncosta/Documents/Edson/DSVSwapi/DSVTask/DSVSwapi.Service/bin/Debug/net8.0/DSVSwapi.Service.pdb
+/Users/edsoncosta/Documents/Edson/DSVSwapi/DSVTask/DSVSwapi.Service/bin/Debug/net8.0/DSVSwapi.Infrastructure.dll
+/Users/edsoncosta/Documents/Edson/DSVSwapi/DSVTask/DSVSwapi.Service/bin/Debug/net8.0/DSVSwapi.Repository.dll
+/Users/edsoncosta/Documents/Edson/DSVSwapi/DSVTask/DSVSwapi.Service/bin/Debug/net8.0/DSVSwapi.Infrastructure.pdb
+/Users/edsoncosta/Documents/Edson/DSVSwapi/DSVTask/DSVSwapi.Service/bin/Debug/net8.0/DSVSwapi.Repository.pdb
+/Users/edsoncosta/Documents/Edson/DSVSwapi/DSVTask/DSVSwapi.Service/obj/Debug/net8.0/DSVSwapi.Service.csproj.AssemblyReference.cache
+/Users/edsoncosta/Documents/Edson/DSVSwapi/DSVTask/DSVSwapi.Service/obj/Debug/net8.0/DSVSwapi.Service.GeneratedMSBuildEditorConfig.editorconfig
+/Users/edsoncosta/Documents/Edson/DSVSwapi/DSVTask/DSVSwapi.Service/obj/Debug/net8.0/DSVSwapi.Service.AssemblyInfoInputs.cache
+/Users/edsoncosta/Documents/Edson/DSVSwapi/DSVTask/DSVSwapi.Service/obj/Debug/net8.0/DSVSwapi.Service.AssemblyInfo.cs
+/Users/edsoncosta/Documents/Edson/DSVSwapi/DSVTask/DSVSwapi.Service/obj/Debug/net8.0/DSVSwapi.Service.csproj.CoreCompileInputs.cache
+/Users/edsoncosta/Documents/Edson/DSVSwapi/DSVTask/DSVSwapi.Service/obj/Debug/net8.0/DSVSwapi.Service.dll
+/Users/edsoncosta/Documents/Edson/DSVSwapi/DSVTask/DSVSwapi.Service/obj/Debug/net8.0/refint/DSVSwapi.Service.dll
+/Users/edsoncosta/Documents/Edson/DSVSwapi/DSVTask/DSVSwapi.Service/obj/Debug/net8.0/DSVSwapi.Service.pdb
+/Users/edsoncosta/Documents/Edson/DSVSwapi/DSVTask/DSVSwapi.Service/obj/Debug/net8.0/ref/DSVSwapi.Service.dll
+/Users/edsoncosta/Documents/Edson/DSVSwapi/DSVTask/DSVSwapi.Service/obj/Debug/net8.0/DSVSwapi.Service.csproj.CopyComplete

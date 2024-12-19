@@ -1,0 +1,17 @@
+/Users/edsoncosta/Documents/Edson/DSVSwapi/DSVTask/DSVSwapi.Repository/bin/Debug/net8.0/DSVSwapi.Repository.deps.json
+/Users/edsoncosta/Documents/Edson/DSVSwapi/DSVTask/DSVSwapi.Repository/bin/Debug/net8.0/DSVSwapi.Repository.dll
+/Users/edsoncosta/Documents/Edson/DSVSwapi/DSVTask/DSVSwapi.Repository/bin/Debug/net8.0/DSVSwapi.Repository.pdb
+/Users/edsoncosta/Documents/Edson/DSVSwapi/DSVTask/DSVSwapi.Repository/bin/Debug/net8.0/DSVSwapi.Infrastructure.dll
+/Users/edsoncosta/Documents/Edson/DSVSwapi/DSVTask/DSVSwapi.Repository/bin/Debug/net8.0/DSVSwapi.Infrastructure.pdb
+/Users/edsoncosta/Documents/Edson/DSVSwapi/DSVTask/DSVSwapi.Repository/obj/Debug/net8.0/DSVSwapi.Repository.csproj.AssemblyReference.cache
+/Users/edsoncosta/Documents/Edson/DSVSwapi/DSVTask/DSVSwapi.Repository/obj/Debug/net8.0/DSVSwapi.Repository.GeneratedMSBuildEditorConfig.editorconfig
+/Users/edsoncosta/Documents/Edson/DSVSwapi/DSVTask/DSVSwapi.Repository/obj/Debug/net8.0/DSVSwapi.Repository.AssemblyInfoInputs.cache
+/Users/edsoncosta/Documents/Edson/DSVSwapi/DSVTask/DSVSwapi.Repository/obj/Debug/net8.0/DSVSwapi.Repository.AssemblyInfo.cs
+/Users/edsoncosta/Documents/Edson/DSVSwapi/DSVTask/DSVSwapi.Repository/obj/Debug/net8.0/DSVSwapi.Repository.csproj.CoreCompileInputs.cache
+/Users/edsoncosta/Documents/Edson/DSVSwapi/DSVTask/DSVSwapi.Repository/obj/Debug/net8.0/DSVSwapi.Repository.dll
+/Users/edsoncosta/Documents/Edson/DSVSwapi/DSVTask/DSVSwapi.Repository/obj/Debug/net8.0/refint/DSVSwapi.Repository.dll
+/Users/edsoncosta/Documents/Edson/DSVSwapi/DSVTask/DSVSwapi.Repository/obj/Debug/net8.0/DSVSwapi.Repository.pdb
+/Users/edsoncosta/Documents/Edson/DSVSwapi/DSVTask/DSVSwapi.Repository/obj/Debug/net8.0/ref/DSVSwapi.Repository.dll
+/Users/edsoncosta/Documents/Edson/DSVSwapi/DSVTask/DSVSwapi.Repository/bin/Debug/net8.0/DSVSwapi.Repository.runtimeconfig.json
+/Users/edsoncosta/Documents/Edson/DSVSwapi/DSVTask/DSVSwapi.Repository/obj/Debug/net8.0/DSVSwapi.Repository.genruntimeconfig.cache
+/Users/edsoncosta/Documents/Edson/DSVSwapi/DSVTask/DSVSwapi.Repository/obj/Debug/net8.0/DSVSwapi.3AE8F95C.Up2Date

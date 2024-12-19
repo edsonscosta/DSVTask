@@ -1,0 +1,12 @@
+/Users/edsoncosta/Documents/Edson/DSVSwapi/DSVTask/DSVSwapi.Infrastructure/bin/Debug/net8.0/DSVSwapi.Infrastructure.deps.json
+/Users/edsoncosta/Documents/Edson/DSVSwapi/DSVTask/DSVSwapi.Infrastructure/bin/Debug/net8.0/DSVSwapi.Infrastructure.dll
+/Users/edsoncosta/Documents/Edson/DSVSwapi/DSVTask/DSVSwapi.Infrastructure/bin/Debug/net8.0/DSVSwapi.Infrastructure.pdb
+/Users/edsoncosta/Documents/Edson/DSVSwapi/DSVTask/DSVSwapi.Infrastructure/obj/Debug/net8.0/DSVSwapi.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/edsoncosta/Documents/Edson/DSVSwapi/DSVTask/DSVSwapi.Infrastructure/obj/Debug/net8.0/DSVSwapi.Infrastructure.AssemblyInfoInputs.cache
+/Users/edsoncosta/Documents/Edson/DSVSwapi/DSVTask/DSVSwapi.Infrastructure/obj/Debug/net8.0/DSVSwapi.Infrastructure.AssemblyInfo.cs
+/Users/edsoncosta/Documents/Edson/DSVSwapi/DSVTask/DSVSwapi.Infrastructure/obj/Debug/net8.0/DSVSwapi.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/edsoncosta/Documents/Edson/DSVSwapi/DSVTask/DSVSwapi.Infrastructure/obj/Debug/net8.0/DSVSwapi.Infrastructure.dll
+/Users/edsoncosta/Documents/Edson/DSVSwapi/DSVTask/DSVSwapi.Infrastructure/obj/Debug/net8.0/refint/DSVSwapi.Infrastructure.dll
+/Users/edsoncosta/Documents/Edson/DSVSwapi/DSVTask/DSVSwapi.Infrastructure/obj/Debug/net8.0/DSVSwapi.Infrastructure.pdb
+/Users/edsoncosta/Documents/Edson/DSVSwapi/DSVTask/DSVSwapi.Infrastructure/obj/Debug/net8.0/ref/DSVSwapi.Infrastructure.dll
+/Users/edsoncosta/Documents/Edson/DSVSwapi/DSVTask/DSVSwapi.Infrastructure/obj/Debug/net8.0/DSVSwapi.Infrastructure.csproj.AssemblyReference.cache

@@ -1,0 +1,13 @@
+version: '3.8'
+
+services:
+  sql_server:
+    image: mcr.microsoft.com/mssql/server
+    environment:
+      SA_PASSWORD: "DSVSwapiApi@123"
+      ACCEPT_EULA: "Y"
+      MSSQL_PID: "Express"
+      DOTNET_SYSTEM_GLOBALIZATION_INVARIANT: "false"
+    ports:
+      - "1433:1433"
+

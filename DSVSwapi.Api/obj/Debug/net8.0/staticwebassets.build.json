@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "iOGR57rMQ6mFtmIWoGHt4gzu8tHY0ILgBxtWRuMg65E=",
+  "Source": "DSVSwapi.Api",
+  "BasePath": "_content/DSVSwapi.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
